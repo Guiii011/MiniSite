@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Radio+Canada:ital,wght@0,300..700;1,300..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+background-color: honeydew;
+    margin-left: 2%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Cal Sans", sans-serif;
+    letter-spacing: 2px;
+    
+}
+    
+p,li {
+    font-family: "Inter", sans-serif;
+}
+
+a {
+    color: lightslategrey;
+    font-family: "Inter", 
+}
+
+#lista2 {
+    font-size: 150%;
+}
+
+#macbooks {
+font-size: 150%;
+position: relative;
+top: 100px;
+
+}
+
+#macbooks2 {
+    
+}
+
+#mac {
+    font-size: 30px;
+    font-family: "Inter", sans-serif;
+}
+
+#iphone {
+padding-bottom: 5%;
+font-size: 150%;
+position: relative;
+top: 60px;
+}
+h1 {
+    padding-bottom: 1%;
+    font-size: 900%;
+    position: relative;
+    top: 100px;
+    left: 50px;
+    
+}
+
+h2 {
+    padding-bottom: 7%;
+    font-size: 500%;
+    position: relative;
+    top: -180px;
+}
+
+h3 {
+    font-size: 250%;
+}
+
+h4 {
+    font-size: 170%;
+}
+
+#logoprincipal {
+    position: relative;
+    left: 420px;
+    top: -189px;
+}
+
+#conheçaagente {
+    margin-bottom: 20%;
+    font-size: 150%;
+}
+#lista {
+    font-size: 150%;
+    margin-bottom: 20%;
+}
+
+footer {
+    font-size: 150%;
+    margin-top: 18%;
+}
